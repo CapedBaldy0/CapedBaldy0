@@ -1,5 +1,3 @@
-<div class="container" style="background: blue;">
-
 ### Hi there 👋
 
 <br>
@@ -9,9 +7,6 @@
 <br>
 
 I'm a beginner developer.
-
-</div>  
-  
 <!--
 **CapedBaldy0/CapedBaldy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
