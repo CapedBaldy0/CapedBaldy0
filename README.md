@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<img class="hidden dark:inline-block" src="https://www.codewars.com/users/Destro1/badges/large">
+
+<br>
+
+I'm a beginner developer.
+
 <!--
 **CapedBaldy0/CapedBaldy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
